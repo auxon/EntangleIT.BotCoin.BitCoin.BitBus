@@ -1,0 +1,8 @@
+D:\repos\EntangleIT.BotCoin.BitCoin.BitBus\BitCoin.BitBus\bin\Debug\netstandard2.0\BitCoin.BitBus.Linq.deps.json
+D:\repos\EntangleIT.BotCoin.BitCoin.BitBus\BitCoin.BitBus\bin\Debug\netstandard2.0\BitCoin.BitBus.Linq.dll
+D:\repos\EntangleIT.BotCoin.BitCoin.BitBus\BitCoin.BitBus\bin\Debug\netstandard2.0\BitCoin.BitBus.Linq.pdb
+D:\repos\EntangleIT.BotCoin.BitCoin.BitBus\BitCoin.BitBus\obj\Debug\netstandard2.0\BitCoin.BitBus.Linq.AssemblyInfoInputs.cache
+D:\repos\EntangleIT.BotCoin.BitCoin.BitBus\BitCoin.BitBus\obj\Debug\netstandard2.0\BitCoin.BitBus.Linq.AssemblyInfo.cs
+D:\repos\EntangleIT.BotCoin.BitCoin.BitBus\BitCoin.BitBus\obj\Debug\netstandard2.0\BitCoin.BitBus.Linq.dll
+D:\repos\EntangleIT.BotCoin.BitCoin.BitBus\BitCoin.BitBus\obj\Debug\netstandard2.0\BitCoin.BitBus.Linq.pdb
+d:\repos\EntangleIT.BotCoin.BitCoin.BitBus\BitCoin.BitBus\obj\Debug\netstandard2.0\BitCoin.BitBus.Linq.csprojAssemblyReference.cache
